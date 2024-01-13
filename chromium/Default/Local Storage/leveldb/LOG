@@ -1,0 +1,52 @@
+2024/01/10-14:49:21.669 4 Reusing MANIFEST /home/nart/.config/chromium/Default/Local Storage/leveldb/MANIFEST-000001
+2024/01/10-14:49:21.670 4 Recovering log #26
+2024/01/10-14:49:21.676 4 Level-0 table #29: started
+2024/01/10-14:49:21.686 4 Level-0 table #29: 708448 bytes OK
+2024/01/10-14:49:21.688 4 Delete type=0 #26
+2024/01/10-14:49:59.114 4 Level-0 table #32: started
+2024/01/10-14:49:59.116 4 Level-0 table #32: 57220 bytes OK
+2024/01/10-14:49:59.117 4 Delete type=0 #30
+2024/01/10-14:50:53.240 4 Level-0 table #34: started
+2024/01/10-14:50:53.249 4 Level-0 table #34: 291797 bytes OK
+2024/01/10-14:50:53.251 4 Delete type=0 #31
+2024/01/10-14:50:53.252 4 Compacting 4@0 + 1@1 files
+2024/01/10-14:50:53.286 4 Generated table #35@0: 280 keys, 1400643 bytes
+2024/01/10-14:50:53.287 4 Compacted 4@0 + 1@1 files => 1400643 bytes
+2024/01/10-14:50:53.288 4 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/01/10-14:50:53.288 4 Delete type=2 #25
+2024/01/10-14:50:53.288 4 Delete type=2 #27
+2024/01/10-14:50:53.288 4 Delete type=2 #29
+2024/01/10-14:50:53.288 4 Delete type=2 #32
+2024/01/10-14:50:53.288 4 Delete type=2 #34
+2024/01/10-14:51:38.888 4 Level-0 table #37: started
+2024/01/10-14:51:38.894 4 Level-0 table #37: 44785 bytes OK
+2024/01/10-14:51:38.899 4 Delete type=0 #33
+2024/01/10-14:54:02.678 6 Level-0 table #39: started
+2024/01/10-14:54:02.685 6 Level-0 table #39: 111877 bytes OK
+2024/01/10-14:54:02.689 6 Delete type=0 #36
+2024/01/10-14:57:04.074 6 Level-0 table #41: started
+2024/01/10-14:57:04.079 6 Level-0 table #41: 14672 bytes OK
+2024/01/10-14:57:04.083 6 Delete type=0 #38
+2024/01/10-14:58:35.945 6 Level-0 table #43: started
+2024/01/10-14:58:35.952 6 Level-0 table #43: 33592 bytes OK
+2024/01/10-14:58:35.956 6 Delete type=0 #40
+2024/01/10-14:58:35.957 6 Compacting 4@0 + 1@1 files
+2024/01/10-14:58:35.989 6 Generated table #44@0: 363 keys, 1570279 bytes
+2024/01/10-14:58:35.989 6 Compacted 4@0 + 1@1 files => 1570279 bytes
+2024/01/10-14:58:35.990 6 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/01/10-14:58:35.991 6 Delete type=2 #35
+2024/01/10-14:58:35.991 6 Delete type=2 #37
+2024/01/10-14:58:35.991 6 Delete type=2 #39
+2024/01/10-14:58:35.991 6 Delete type=2 #41
+2024/01/10-14:58:35.991 6 Delete type=2 #43
+2024/01/10-15:01:44.678 6 Level-0 table #46: started
+2024/01/10-15:01:44.683 6 Level-0 table #46: 18971 bytes OK
+2024/01/10-15:01:44.687 6 Delete type=0 #42
+2024/01/10-15:04:44.678 6 Level-0 table #48: started
+2024/01/10-15:04:44.684 6 Level-0 table #48: 19213 bytes OK
+2024/01/10-15:04:44.687 6 Delete type=0 #45
+2024/01/10-15:09:04.665 6 Level-0 table #50: started
+2024/01/10-15:09:04.671 6 Level-0 table #50: 15193 bytes OK
+2024/01/10-15:09:04.675 6 Delete type=0 #47
+2024/01/10-17:58:38.240 6 Level-0 table #52: started
+2024/01/10-17:58:38.249 6 Level-0 table #52: 647314 bytes OK

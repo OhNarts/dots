@@ -1,0 +1,7 @@
+2024/01/10-13:19:48.818 14832 Reusing MANIFEST /home/nart/.config/chromium/Default/WebStorage/2/IndexedDB/indexeddb.leveldb/MANIFEST-000001
+2024/01/10-13:19:48.818 14832 Recovering log #3
+2024/01/10-13:19:48.818 14832 Reusing old log /home/nart/.config/chromium/Default/WebStorage/2/IndexedDB/indexeddb.leveldb/000003.log 
+2024/01/10-13:20:00.940 14830 Level-0 table #5: started
+2024/01/10-13:20:00.944 14830 Level-0 table #5: 17767 bytes OK
+2024/01/10-13:20:00.945 14830 Delete type=0 #3
+2024/01/10-13:20:00.946 14830 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

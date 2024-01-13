@@ -1,0 +1,5 @@
+2024-01-13T18:20:26.361Z 1: Discord starting: {"releaseChannel":"stable","version":"0.0.39"}, modulepath: /home/nart/.config/discord/0.0.39/modules
+2024-01-13T18:20:26.362Z 2: ✅ webContents.created web1 ""
+2024-01-13T18:20:26.363Z 3: ✅ window.created win1 "discord"
+2024-01-13T18:20:26.504Z 4: ✅ webContents.did-finish-load web1
+2024-01-13T18:20:32.019Z 5: before-quit
